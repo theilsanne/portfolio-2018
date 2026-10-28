@@ -400,7 +400,7 @@ not needed in WP 3.8
 	width: 15px;
 	float: left;
 	
-	background: url(https://theilsanne.github.io/portfolio-2018/wp-content/themes/semplice/includes/acf/advanced-custom-fields/images/arrows.png) 0 -72px no-repeat;
+	background: url(/wp-content/themes/semplice/includes/acf/advanced-custom-fields/images/arrows.png) 0 -72px no-repeat;
 	border: #C7C7C7 solid 1px;
 	
 	border-radius: 10px;
@@ -1312,7 +1312,7 @@ only screen and (                min-resolution: 2dppx) {
 	.acf-popup .bit,
 	.acf-gallery .toolbar .view-grid,
 	.acf-gallery .toolbar .view-list {
-		background-image: url(https://theilsanne.github.io/portfolio-2018/wp-content/themes/semplice/includes/acf/advanced-custom-fields/images/sprite@2x.png);
+		background-image: url(/wp-content/themes/semplice/includes/acf/advanced-custom-fields/images/sprite@2x.png);
 		background-size: 100px 600px;
 	}
 
