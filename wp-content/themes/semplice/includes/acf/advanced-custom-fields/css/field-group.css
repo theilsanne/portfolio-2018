@@ -348,7 +348,7 @@ table.widefat.acf td {
 }
 
 #acf_fields .table_footer .order_message {
-	background: url(https://theilsanne.github.io/portfolio-2018/wp-content/themes/semplice/includes/acf/advanced-custom-fields/images/sprite.png) -50px 0px no-repeat;
+	background: url(/wp-content/themes/semplice/includes/acf/advanced-custom-fields/images/sprite.png) -50px 0px no-repeat;
     color: #7A9BBE;
     float: left;
     font-family: Comic Sans MS, sans-serif;
@@ -679,7 +679,7 @@ only screen and (                min-resolution: 2dppx) {
 	
 	#icon-edit,
 	#acf_fields .table_footer .order_message {
-		background-image: url(https://theilsanne.github.io/portfolio-2018/wp-content/themes/semplice/includes/acf/advanced-custom-fields/images/sprite@2x.png);
+		background-image: url(/wp-content/themes/semplice/includes/acf/advanced-custom-fields/images/sprite@2x.png);
 		background-size: 100px 600px;
 	}
 	

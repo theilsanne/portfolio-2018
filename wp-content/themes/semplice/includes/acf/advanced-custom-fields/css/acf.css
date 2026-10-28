@@ -5,7 +5,7 @@
 *--------------------------------------------------------------------------------------------*/
 
 #icon-edit {
-	background: url(https://theilsanne.github.io/portfolio-2018/wp-content/themes/semplice/includes/acf/advanced-custom-fields/images/sprite.png) 0 0 no-repeat;
+	background: url(/wp-content/themes/semplice/includes/acf/advanced-custom-fields/images/sprite.png) 0 0 no-repeat;
 }
 
 #acf-field-group-wrap .tablenav,
@@ -345,7 +345,7 @@ only screen and (                min-resolution: 2dppx) {
 	
 	#icon-edit,
 	#icon-acf {
-		background-image: url(https://theilsanne.github.io/portfolio-2018/wp-content/themes/semplice/includes/acf/advanced-custom-fields/images/sprite@2x.png);
+		background-image: url(/wp-content/themes/semplice/includes/acf/advanced-custom-fields/images/sprite@2x.png);
 		background-size: 100px 600px;
 	}
 

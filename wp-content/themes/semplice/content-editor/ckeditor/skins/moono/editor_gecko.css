@@ -766,7 +766,7 @@ a.cke_button_off:hover,a.cke_button_off:focus,a.cke_button_off:active,a.cke_butt
 }
 
 .cke_menuarrow {
-    background-image: url(https://theilsanne.github.io/portfolio-2018/wp-content/themes/semplice/content-editor/ckeditor/skins/moono/images/arrow.png);
+    background-image: url(/wp-content/themes/semplice/content-editor/ckeditor/skins/moono/images/arrow.png);
     background-position: 0 10px;
     background-repeat: no-repeat;
     padding: 0 5px;

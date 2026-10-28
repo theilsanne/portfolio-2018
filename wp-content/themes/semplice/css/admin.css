@@ -45,7 +45,7 @@ html {
 }
 
 .acf_postbox h3, .acf_postbox h2.hndle {
-	background: url(https://theilsanne.github.io/portfolio-2018/wp-content/themes/semplice/images/admin_logo.png) no-repeat left !important;
+	background: url(/wp-content/themes/semplice/images/admin_logo.png) no-repeat left !important;
 	background-color: #000000 !important;
 	height:  80px !important;
 	text-indent: -5000px;
@@ -391,7 +391,7 @@ table.acf_input tbody tr.field > td {
 .acf-button-remove,
 .acf-button-edit,
 .acf-button-delete {
-	background: url("https://theilsanne.github.io/portfolio-2018/wp-content/themes/semplice/images/acf_sprite.png") no-repeat scroll -14px -114px #fff !important;
+	background: url("/wp-content/themes/semplice/images/acf_sprite.png") no-repeat scroll -14px -114px #fff !important;
 	width: 22px !important;
 	height: 22px !important;
 	border-radius: 0px !important;
@@ -642,38 +642,38 @@ table.acf_input tbody tr td.label label, .cs-labels label, .cs-inner-label label
 }
 
 .ui-sortable .p {
-	background-image: url("https://theilsanne.github.io/portfolio-2018/wp-content/themes/semplice/images/content-editor/p.png") !important;
+	background-image: url("/wp-content/themes/semplice/images/content-editor/p.png") !important;
 }
 .ui-sortable .image {
-	background-image: url("https://theilsanne.github.io/portfolio-2018/wp-content/themes/semplice/images/content-editor/image.png") !important;
+	background-image: url("/wp-content/themes/semplice/images/content-editor/image.png") !important;
 }
 
 .ui-sortable .gallery {
-	background-image: url("https://theilsanne.github.io/portfolio-2018/wp-content/themes/semplice/images/content-editor/gallery.png") !important;
+	background-image: url("/wp-content/themes/semplice/images/content-editor/gallery.png") !important;
 }
 
 .ui-sortable .video {
-	background-image: url("https://theilsanne.github.io/portfolio-2018/wp-content/themes/semplice/images/content-editor/video.png") !important;
+	background-image: url("/wp-content/themes/semplice/images/content-editor/video.png") !important;
 }
 
 .ui-sortable .audio {
-	background-image: url("https://theilsanne.github.io/portfolio-2018/wp-content/themes/semplice/images/content-editor/audio.png") !important;
+	background-image: url("/wp-content/themes/semplice/images/content-editor/audio.png") !important;
 }
 
 .ui-sortable .embed {
-	background-image: url("https://theilsanne.github.io/portfolio-2018/wp-content/themes/semplice/images/content-editor/embed.png") !important;
+	background-image: url("/wp-content/themes/semplice/images/content-editor/embed.png") !important;
 }
 
 .ui-sortable .thumbnails {
-	background-image: url("https://theilsanne.github.io/portfolio-2018/wp-content/themes/semplice/images/content-editor/thumbnails.png") !important;
+	background-image: url("/wp-content/themes/semplice/images/content-editor/thumbnails.png") !important;
 }
 
 .ui-sortable .hr {
-	background-image: url("https://theilsanne.github.io/portfolio-2018/wp-content/themes/semplice/images/content-editor/hr.png") !important;
+	background-image: url("/wp-content/themes/semplice/images/content-editor/hr.png") !important;
 }
 
 .ui-sortable .content_row {
-	background-image: url("https://theilsanne.github.io/portfolio-2018/wp-content/themes/semplice/images/content-editor/content_row.png") !important;
+	background-image: url("/wp-content/themes/semplice/images/content-editor/content_row.png") !important;
 }
 
 .acf-semplice-container i {
@@ -1075,7 +1075,7 @@ table.acf-input-table > thead > tr > th.order, .repeater > table > thead > tr > 
 }
 
 .acf_postbox .field .select-arrow {
-	background: url('https://theilsanne.github.io/portfolio-2018/wp-content/themes/semplice/images/select_arrow.png') center center no-repeat;
+	background: url('/wp-content/themes/semplice/images/select_arrow.png') center center no-repeat;
 	position: relative;
 	float: right;
 	width: 41px;
@@ -1240,7 +1240,7 @@ div.repeater table.widefat tbody.ui-sortable tr.row td.acf_input-wrap table.wide
 	width: 164px;
 	height: 168px;
 	background-color: #ffd401;
-	background-image: url('https://theilsanne.github.io/portfolio-2018/wp-content/themes/semplice/images/ce_start_plus.png');
+	background-image: url('/wp-content/themes/semplice/images/ce_start_plus.png');
 	background-position: 0px 0px;
 	background-repeat: no-repeat;
 	transition: background-color 0.2s linear !important;
@@ -1256,7 +1256,7 @@ div.repeater table.widefat tbody.ui-sortable tr.row td.acf_input-wrap table.wide
 	min-height: 500px;
 	background: #ffffff;
 	border-bottom: 1px solid #e6e6e6;
-	background-image: url('https://theilsanne.github.io/portfolio-2018/wp-content/themes/semplice/images/upload_modules.png');
+	background-image: url('/wp-content/themes/semplice/images/upload_modules.png');
 	background-position: center center;
 	background-repeat: no-repeat;
 	-webkit-box-shadow: inset 0px 0px 80px 0px rgba(0,0,0,0.0);
@@ -1372,7 +1372,7 @@ div.repeater table.widefat tbody.ui-sortable tr.row td.acf_input-wrap table.wide
 }
 
 .dz-started {
-	background-image: url('https://theilsanne.github.io/portfolio-2018/wp-content/themes/semplice/images/upload_modules_active.png') !important;
+	background-image: url('/wp-content/themes/semplice/images/upload_modules_active.png') !important;
 }
 
 .dz-preview {
@@ -1393,7 +1393,7 @@ div.repeater table.widefat tbody.ui-sortable tr.row td.acf_input-wrap table.wide
 	-o-transition: background-color 0.5s linear !important;
 	vertical-align: top;
 	background-color: white;
-	background-image: url('https://theilsanne.github.io/portfolio-2018/wp-content/themes/semplice/images/upload_modules_mark.png');
+	background-image: url('/wp-content/themes/semplice/images/upload_modules_mark.png');
 	background-position: center 50px;
 	background-repeat: no-repeat;
 }
@@ -1421,13 +1421,13 @@ div.repeater table.widefat tbody.ui-sortable tr.row td.acf_input-wrap table.wide
 
 .dz-size {
 	height: 10px;
-	background: url('https://theilsanne.github.io/portfolio-2018/wp-content/themes/semplice/images/upload_modules_success.png') center center no-repeat;
+	background: url('/wp-content/themes/semplice/images/upload_modules_success.png') center center no-repeat;
 	color: transparent;
 	margin: 3px 0px 50px 0px;
 }
 
 .dz-error {
-	background: url('https://theilsanne.github.io/portfolio-2018/wp-content/themes/semplice/images/upload_modules_error.png') center 50px no-repeat;
+	background: url('/wp-content/themes/semplice/images/upload_modules_error.png') center 50px no-repeat;
 }
 
 .dz-error .dz-filename {
@@ -1452,7 +1452,7 @@ div.repeater table.widefat tbody.ui-sortable tr.row td.acf_input-wrap table.wide
 
 .dz-error .dz-error-message {
 	height: 10px;
-	background: url('https://theilsanne.github.io/portfolio-2018/wp-content/themes/semplice/images/upload_modules_failed.png') center center no-repeat;
+	background: url('/wp-content/themes/semplice/images/upload_modules_failed.png') center center no-repeat;
 	color: transparent;
 	margin: 3px 0px 50px 0px;
 }
@@ -1505,7 +1505,7 @@ div.repeater table.widefat tbody.ui-sortable tr.row td.acf_input-wrap table.wide
 }
 
 #poststuff .acf_postbox .field_type-content_editor {
-	background: url('https://theilsanne.github.io/portfolio-2018/wp-content/themes/semplice/images/ce_start_bg.png') center center no-repeat !important;
+	background: url('/wp-content/themes/semplice/images/ce_start_bg.png') center center no-repeat !important;
 	height: 500px;
 }
 
@@ -1551,13 +1551,13 @@ div.field:after {
 }
 
 #post .valid-key {
-	background-image: url('https://theilsanne.github.io/portfolio-2018/wp-content/themes/semplice/images/valid.png') !important;
+	background-image: url('/wp-content/themes/semplice/images/valid.png') !important;
 	background-position: right 0px !important;
 	background-repeat: no-repeat !important;
 }
 
 #post .invalid-key {
-	background-image: url('https://theilsanne.github.io/portfolio-2018/wp-content/themes/semplice/images/valid.png') !important;
+	background-image: url('/wp-content/themes/semplice/images/valid.png') !important;
 	background-position: right -42px !important;
 	background-repeat: no-repeat !important;
 }
@@ -1570,7 +1570,7 @@ div.field:after {
 	width: 16px;
 	height: 16px;
 	float: left;
-	background: url('https://theilsanne.github.io/portfolio-2018/wp-content/themes/semplice/images/loader.gif');
+	background: url('/wp-content/themes/semplice/images/loader.gif');
 	margin: 16px 0px 0px 8px;
 	display: none;
 }
@@ -1585,7 +1585,7 @@ div.field:after {
 	height: 60px;
 	border-radius: 50% !important;
 	border: 1px solid #000 !important;
-	background-image: url('https://theilsanne.github.io/portfolio-2018/wp-content/themes/semplice/images/play_button.png');
+	background-image: url('/wp-content/themes/semplice/images/play_button.png');
 	background-position: 0px 0px;
 	background-color: #ffffff;
 	margin: 0 auto;
@@ -1753,7 +1753,7 @@ div.field:after {
 }
 
 .import-loader {
-	background: url("https://theilsanne.github.io/portfolio-2018/wp-content/themes/semplice/content-editor/images/loader.gif") center 158px no-repeat;
+	background: url("/wp-content/themes/semplice/content-editor/images/loader.gif") center 158px no-repeat;
 	max-width: 360px;
 	height: 445px;
 	margin: 0 auto;	

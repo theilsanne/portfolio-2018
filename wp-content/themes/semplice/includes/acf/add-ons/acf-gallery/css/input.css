@@ -133,7 +133,7 @@
 .acf-gallery .toolbar .view-list {
 	width: 36px;
 	height: 36px;
-	background: url(https://theilsanne.github.io/portfolio-2018/wp-content/themes/semplice/includes/acf/add-ons/acf-gallery/images/sprite.png) -8px -7px no-repeat;
+	background: url(/wp-content/themes/semplice/includes/acf/add-ons/acf-gallery/images/sprite.png) -8px -7px no-repeat;
 }
 
 .acf-gallery .toolbar .view-list {
@@ -291,7 +291,7 @@ only screen and (                min-resolution: 2dppx) {
 	
 	.acf-gallery .toolbar .view-grid,
 	.acf-gallery .toolbar .view-list {
-		background-image: url(https://theilsanne.github.io/portfolio-2018/wp-content/themes/semplice/includes/acf/add-ons/acf-gallery/images/sprite@2x.png);
+		background-image: url(/wp-content/themes/semplice/includes/acf/add-ons/acf-gallery/images/sprite@2x.png);
 		background-size: 100px 100px;
 	}
 
